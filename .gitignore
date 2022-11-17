@@ -1,0 +1,7 @@
+*.o
+dbgen
+qgen
+*.tbl
+data/dists.dss
+.vscode
+.DS_Store
